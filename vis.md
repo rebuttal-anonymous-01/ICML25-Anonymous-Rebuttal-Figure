@@ -28,3 +28,4 @@
 
 **8. Representation Ability of Blob for Irregular Objects**
 ![Representation Ability of Blob for Irregular Objects](img/rebuttal_08.png)
+![Representation Ability of Blob for Irregular Objects](img/rebuttal_09.png)
