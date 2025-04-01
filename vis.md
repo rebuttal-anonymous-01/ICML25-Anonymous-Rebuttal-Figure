@@ -23,3 +23,8 @@
 
 **7. The BlobData curation workflow.**
 ![The BlobData curation workflow](img/rebuttal_07.png)
+
+
+
+**8. Representation Ability of Blob for Irregular Objects**
+![Representation Ability of Blob for Irregular Objects](img/rebuttal_08.png)
