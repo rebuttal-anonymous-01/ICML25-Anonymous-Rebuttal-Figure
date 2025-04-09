@@ -4,6 +4,7 @@
 
 **2. Rotate blob for object orientation.**
 ![Rotate blob for object orientation examples](img/rebuttal_02.png)
+![Rotate blob for object orientation examples](img/rebuttal_10.png)
 
 **3. Global effect removed.**
 ![Global effect removedexamples](img/rebuttal_03.png)
